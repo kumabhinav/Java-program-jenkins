@@ -13,6 +13,6 @@ public class Student {
     }
     
     public void sayHello(){
-        System.out.println("Hello, I am student");
+        System.out.println("Hey, I am student");
     }
 }
